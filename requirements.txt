@@ -1,9 +1,6 @@
-torch~=2.5.1+cu118
-scikit-learn~=1.6.1
-opencv-python~=4.8.1.78
-numpy~=1.26.4
-matplotlib~=3.9.4
-torchvision~=0.20.1+cu118
-tqdm~=4.64.1
-pillow~=11.3.0
 streamlit
+torch
+torchvision
+Pillow
+numpy
+pandas
